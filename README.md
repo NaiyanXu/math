@@ -1,2 +1,2 @@
 # math
-UCLA math calsses
+UCLA math classes
